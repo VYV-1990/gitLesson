@@ -9,7 +9,7 @@ This is my Git Tutorial
 * *git branch -d* - удаление ветки
 
 2. Слияние веток
-
+* *git merge* - слияние веток
 3. Конфликты
 
 4. Итоги
